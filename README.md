@@ -48,7 +48,7 @@ Compute Node:
 9. # qstat -f ( it will show all the added compute nodes )
       
       
-    queuename                      qtype resv/used/tot. load_avg arch          states
+      queuename                      qtype resv/used/tot. load_avg arch          states
       ---------------------------------------------------------------------------------
       all.q@compute-node2               BIP   0/0/2          0.00     linux-x64     
       ---------------------------------------------------------------------------------
